@@ -4,7 +4,7 @@ import streamlit as st
 import os
 
 # Set the remote Ollama host
-os.environ["OLLAMA_HOST"] = "https://d664-34-125-46-118.ngrok-free.app/"
+os.environ["OLLAMA_HOST"] = "https://1888-35-197-3-46.ngrok-free.app/"
 
 template = """
 Answer the question below.
