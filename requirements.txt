@@ -1,4 +1,2 @@
 streamlit
-pandas
-re
-langchain_ollama
+langchain-ollama
