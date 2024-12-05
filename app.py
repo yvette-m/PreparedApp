@@ -5,7 +5,7 @@ import os
 import re
 import pandas as pd 
 
-os.environ["OLLAMA_HOST"] = "https://cb7f-34-127-6-176.ngrok-free.app/"
+os.environ["OLLAMA_HOST"] = "https://5a00-34-125-40-31.ngrok-free.app/"
 
 
 # Function to load and preprocess the custom text file
