@@ -14,7 +14,7 @@ import pandas as pd
 # Replace URL for each new deployment
 # Run the RemoteOllama Model to generate a new URL
 # os.environ["OLLAMA_HOST"] = ""
-os.environ["OLLAMA_HOST"] = "https://f7b4-34-16-170-207.ngrok-free.app/"
+os.environ["OLLAMA_HOST"] = "https://66e5-34-169-78-203.ngrok-free.app/"
 
 
 # Function to load and preprocess the custom text file
